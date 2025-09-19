@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 """
-analyze_claims.py
-
-A small, portfolio-ready analyzer for Kaggle-style health insurance claims CSVs.
-
 What it does:
 - Loads a CSV (or Excel) of claims data
 - Cleans obvious issues (blanks-only rows/cols, leading/trailing spaces, duplicated rows)
